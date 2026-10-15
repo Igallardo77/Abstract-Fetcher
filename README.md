@@ -4,7 +4,7 @@
 
 Abstract Fetcher helps researchers enrich Excel or CSV reference lists without searching for each article manually. It searches PubMed, Crossref, and Europe PMC, checks title similarity, and exports the retrieved records to a CSV file that can be opened in Excel. Semantic Scholar is available as an optional additional source.
 
-Developed for **Dr. Iván Gallardo Bernal**, Universidad Autónoma de Guerrero (UAGro).
+Developed by **Dr. Iván Gallardo Bernal**, Universidad Autónoma de Guerrero (UAGro).
 
 > The documentation is in English. The current application interface and result status labels are in Spanish.
 
