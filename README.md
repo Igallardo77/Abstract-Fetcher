@@ -91,6 +91,12 @@ Index,Title
 - Prefer plain-text titles. Excel formula cells require a cached value saved by Excel.
 - An example file is provided as `referencias_ejemplo.csv`.
 
+## Example search and screening results
+
+The repository includes **[examples/screening.xlsx](examples/screening.xlsx)**, a user-provided workbook illustrating a literature search and screening workflow. It contains nine worksheets covering the protocol, search log, raw references, duplicate records, automated exclusions, screening decisions, data extraction, PRISMA counts, and consistency checks.
+
+The workbook is preserved as supplied, with its Excel extension restored. It illustrates the broader review workflow; the desktop application's native export is CSV. See **[examples/README.md](examples/README.md)** for a worksheet guide and instructions for reusing the article titles.
+
 ## Output fields
 
 The output retains the input columns and adds or replaces the following result fields:
