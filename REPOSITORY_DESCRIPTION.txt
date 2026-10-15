@@ -1,0 +1,1 @@
+Desktop app to retrieve scientific abstracts, DOIs, and metadata from Excel/CSV references using PubMed, Crossref, Europe PMC, and optional Semantic Scholar.

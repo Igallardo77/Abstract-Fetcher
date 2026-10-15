@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build-env/
+build/
+dist/
+*.spec
+.env
+*_con_resumenes.csv
+resumenes_copia.csv
+*.tmp
